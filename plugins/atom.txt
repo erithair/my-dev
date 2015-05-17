@@ -1,0 +1,9 @@
+erb-helper
+hightlight-selecte
+minimap
+rails-partials
+rspec-snippets
+script
+seti-syntax
+seti-ui
+underline-trailing-whitespace

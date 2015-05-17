@@ -1,0 +1,8 @@
+plugins:
+  vim-gitgutter:
+    git: git@github.com:airblade/vim-gitgutter.git
+    description: A Vim plugin which shows a git diff in the gutter (sign column) and stages/reverts hunks.
+
+  delimitMate:
+    git: git@github.com:Raimondi/delimitMate.git
+    description: Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
