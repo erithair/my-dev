@@ -1,3 +1,3 @@
 " Tabs
-map <C-n> :tabnext<CR>
-map <C-p> :tabprev<CR>
+map <C-]> :tabprev<CR>
+map <C-\> :tabnext<CR>
